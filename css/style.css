@@ -3,8 +3,14 @@ h1{
 	font-size: 30px;
 }
 
+
 body{
-	background: blue;
+	background: lightcoral;
 	width: 970px;
 	margin: 0 auto;
+}
+
+p{
+	font-size: 20px;
+	font-style: italic;
 }
